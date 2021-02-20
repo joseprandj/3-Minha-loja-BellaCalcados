@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0; }
+
+#headerimg{
+    text-align: center;
+    width: 100%;
+    height: auto;}
+
+menu{
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+    background-color: #9b32e79D;
+    border-top: 1px solid black;
+    display: absolute;
+    border-bottom: 1px solid black; }
+
+#menu-ul{
+    list-style: none;}
+
+.limenu{
+    display: inline-block;
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 50px;}
+
+a{
+    color: black;
+    text-decoration: none; }
+
+a :hover{
+    background-color: blueviolet; 
+    border: 2px solid white;
+    color: white;}
+
+a :active{
+    border: none; }
+
+footer{
+    background-color: #000000; 
+    color: white;
+    overflow: hidden;
+    width: 100%;
+    font-family: 'Lato', sans-serif;}
+
+#fundofooter{
+    text-align: left;
+    /* display: inline-block; */
+    float: left;
+    padding-right: 19%;
+    padding-left: 0px;}
+
+#ulfooter1{
+    list-style-type: none;
+    font-size: 20px;}
+
+#fundofooter2{
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 10px;}
+
+#fundofooter3{
+    text-align: center;
+    float: right; 
+    width: 240px;
+    height: auto; }
+
+#ulfooter2{
+    list-style-type: none;
+    display: inline-block;}
+
+.pfooter{
+    border: 1px solid white;
+    border-radius: 60px;
+    margin-top: 5px;
+    padding: auto;}
+
+.footerlogo{
+    height: 25px;
+    width: auto; }
+
+.paycard{
+    height: 23px;
+    width: auto;
+    padding: 3px;}
+
+p{
+    color: white;}
+
+.midiasocial :hover{
+    color: black;
+    border: 2px solid green;
+    background-color: white;}
+
+#COPYRIGHT{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 10px;}
+
+.h1marcas{
+    font-size: 40px;
+    background-color: #9b32e79D;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+    border: 1px solid black;}
+
+#marcas{
+    display: inline-block;
+    max-width: 800px;
+    text-align: center;
+    margin-left: 22%;
+    padding: 5px; 
+    margin-right: 10%;}
+
+.marcas{
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    border: 2px inset #9b32e79D;}
+
+.apiwhats :hover{
+    border: 1px solid white;
+    background-color: black;}
+
+.mapa{
+    text-align: center;}
+
+#mapa{
+    padding-top: 5px;
+    text-align: center; }
+
+.mapa{
+    padding-bottom: 5px; }
+
+#dinheiro{
+    font-size: 25px;
+    font-weight: bold; }
+
+#produtos{
+    text-align: left;
+    box-sizing: border-box; }
+
+.produtos{
+    width: 300px;
+    padding-top: 5px;
+    padding-left: 3%;
+    display: inline-block; }
+
+#Historia{
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    padding-left: 30px;
+    display: inline-block;
+    color: white;
+    font-family: 'Nerko One', cursive;}
+
+#h1historia{   
+    font-size: 40px;}
+
+.historia{
+    font-size: 25px;
+    text-align: justify; }
+
+#nossahistoria{
+    display: inline-block;
+    background-color: #726a6a;
+    width: 100%; }
